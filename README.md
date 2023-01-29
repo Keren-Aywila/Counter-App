@@ -2,7 +2,7 @@
 
 ## Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: [https://github.com/Keren-Aywila/Counter-App.git]
 - Live Site URL: [Add live site URL here]
 ### Built with
 
