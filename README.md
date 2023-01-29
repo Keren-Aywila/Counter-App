@@ -3,7 +3,7 @@
 ## Links
 
 - Solution URL: [https://github.com/Keren-Aywila/Counter-App.git]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://keren-aywila.github.io/Counter-App/]
 ### Built with
 
 - Semantic HTML5 markup
